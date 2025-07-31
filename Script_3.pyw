@@ -342,7 +342,7 @@ powered_label.pack(side="left")
 def show_info():
     messagebox.showinfo(
         "About this Tool",
-        "Sofifa Scraper Tool\nCreated by : nadhilm12\n\nThis tool allows you to scrape data from Sofifa for personal modding or research.\nUse responsibly and support open-source projects!"
+        "Sofifa Scraper Tool\nCreated by : nadhilm12\n\nThis tool allows you to scrape data from Sofifa for personal modding or research.\nUse responsibly and support open-source projects!\n\nInspired by the work of : Paulv2k4, eshortX and Decoruiz"
     )
 
 info_button = ttk.Button(footer_frame, text="Info", command=show_info)
