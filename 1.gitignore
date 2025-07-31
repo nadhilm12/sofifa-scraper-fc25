@@ -1,0 +1,32 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.venv/
+venv/
+
+# Output folders
+output/
+OUTPUT/
+DEBUG/
+scraping_results/
+*.log
+
+# IDE/editor junk
+.vscode/
+.idea/
+
+# Distribution/build
+dist/
+build/
+*.egg-info/
+
+# Compiled
+*.exe
+*.spec
