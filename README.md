@@ -50,4 +50,6 @@ This project is licensed under the MIT License. See `LICENSE` for more details.
 
 **Created by:** [nadhilm12](https://github.com/nadhilm12)  
 **Year:** 2025  
+**Inspired by:** Paulv2k4, eshortX, Decoruiz
 **Open-source | FC25 Modding Utility**
+
